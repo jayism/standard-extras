@@ -6,6 +6,10 @@ An alternate header written by Jason Bradley for Standard Theme 3.
 
 * [Jason Bradley](http://everchangingmedia.com/)
 
+## Instructions
+
+* Include this header.php file in your child theme
+
 ### Features
 
 * Adds a Login/Logout Link in the menu above the header
